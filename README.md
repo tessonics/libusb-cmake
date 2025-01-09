@@ -27,5 +27,3 @@ cmake --build build --config Release --target ALL_BUILD -j28
 ```bash
 cmake --build build --config Release --target generated
 ```
-
-Libusb repo: https://github.com/libusb/libusb
